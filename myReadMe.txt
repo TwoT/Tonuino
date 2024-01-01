@@ -6,6 +6,8 @@ constants.hpp remove comments at desired settings -> Tonuino classic, threebutto
 
 IDE setting: Arduino Nano ATmega328P (Old Bootloader)
 
+SD-Card: create Folders with Batch Script
+
 Probleme mit DFplayer/sd karte:
 system volume ordner löschen
 
